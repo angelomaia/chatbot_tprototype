@@ -1,3 +1,10 @@
+```
+This repository has been originally uploaded by tprototype. 
+
+I copied it with the intent of tweaking it freely.
+
+Everything below this message has been written by tprototype.
+```
 ## Chatbot
 
 This is a chatbot built using the "text-davinci-003" model from Open AI which is the used for text generation.
