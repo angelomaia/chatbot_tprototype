@@ -2,8 +2,6 @@
 This repository has been originally uploaded by tprototype. 
 
 I copied it with the intent of tweaking it freely.
-
-Everything below this message has been written by tprototype.
 ```
 ## Chatbot
 
